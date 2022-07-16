@@ -19,7 +19,7 @@ function App() {
         </a>
         <p>Publikace korekce</p>
         <p>1</p>
-        <p>favicon should be here</p>
+        <p>favicon should be here !!!!</p>
       </header>
     </div>
   );
