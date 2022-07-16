@@ -17,7 +17,8 @@ function App() {
         >
           Learn React
         </a>
-        <p>Publikace?</p>
+        <p>Publikace korekce</p>
+        <p>1</p>
       </header>
     </div>
   );
