@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>TOhle je ta verze co UPRAVUJU</p>
       </header>
     </div>
   );
