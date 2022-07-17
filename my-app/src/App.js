@@ -3,10 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <>
-      <h1 style={{textAlign: "center"}}>IN DEVELOPMENT</h1>
-      <p style={{margin: "40px"}}>mail@jakubmachac.cz</p>
-    </>
+    <div className="indev">
+      <h1 className="center" style={{marginTop: "100px"}}>IN DEVELOPMENT</h1>
+      <p className="center" style={{marginTop: "70px"}}>mail@jakubmachac.cz</p>
+    </div>
   );
 }
 
